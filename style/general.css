@@ -22,6 +22,9 @@ html, body {
     background-color: #FFF;
     min-width: 0;
 }
+.hidden {
+	display: none;
+}
 /** Header **/
 
 .pagelayout-frontpage #page-header {
